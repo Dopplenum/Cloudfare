@@ -6,5 +6,5 @@ Easier defination
 What if you could just write your express routes and run a command. The app would automatically 
 Deploy
 Autoscale
-Charge you on a per request basis (rather than you paying for VMs)
+Charge you on a per request basis (rather than you paying for VMs
  
